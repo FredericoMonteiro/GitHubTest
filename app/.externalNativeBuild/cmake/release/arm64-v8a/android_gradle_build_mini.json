@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/fredericomonteiro/Documents/Cooking/GitHubTest/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/fredericomonteiro/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/fredericomonteiro/Documents/Cooking/GitHubTest/app/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "native-lib-Release-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/fredericomonteiro/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/fredericomonteiro/Documents/Cooking/GitHubTest/app/.externalNativeBuild/cmake/release/arm64-v8a --target native-lib",
+      "abi": "arm64-v8a",
+      "output": "/Users/fredericomonteiro/Documents/Cooking/GitHubTest/app/build/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so"
+    }
+  }
+}
